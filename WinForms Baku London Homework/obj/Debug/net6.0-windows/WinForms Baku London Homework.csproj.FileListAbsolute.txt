@@ -1,0 +1,18 @@
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\bin\Debug\net6.0-windows\WinForms Baku London Homework.exe
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\bin\Debug\net6.0-windows\WinForms Baku London Homework.deps.json
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\bin\Debug\net6.0-windows\WinForms Baku London Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\bin\Debug\net6.0-windows\WinForms Baku London Homework.dll
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\bin\Debug\net6.0-windows\WinForms Baku London Homework.pdb
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms_Baku_London_Homework.Form1.resources
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms_Baku_London_Homework.Properties.Resources.resources
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.dll
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\refint\WinForms Baku London Homework.dll
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.pdb
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\WinForms Baku London Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WinForms Baku London Homework\WinForms Baku London Homework\obj\Debug\net6.0-windows\ref\WinForms Baku London Homework.dll

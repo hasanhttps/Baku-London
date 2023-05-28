@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms Baku London Homework", "WinForms Baku London Homework\WinForms Baku London Homework.csproj", "{7C481654-D931-4534-85B8-5260CB65E4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C481654-D931-4534-85B8-5260CB65E4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C481654-D931-4534-85B8-5260CB65E4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C481654-D931-4534-85B8-5260CB65E4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C481654-D931-4534-85B8-5260CB65E4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17062DA-1D3F-4242-8AB5-9DFC0596E38B}
+	EndGlobalSection
+EndGlobal
